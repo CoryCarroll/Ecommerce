@@ -16,5 +16,4 @@ Below are some video tutorials to demonstrate how to get the project up and runn
 
 Reach out to me with any further questions you may have about the project 
 
-Email:
-GitHub: 
+GitHub: https://github.com/CoryCarroll/Ecommerce
